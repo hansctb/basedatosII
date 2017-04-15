@@ -17,7 +17,7 @@ El proyecto contiene un script de la base de datos de un giro de negocio de vent
   5.
   
 ### 3. Inventarios.
-  1.
+  1. Hans Tambito Batres
   2.
   3.
   4.
